@@ -5,7 +5,9 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF3D00&center=true&vCenter=true&random=false&width=435&lines=Code+and+Life" alt="Typing SVG" />
     </a>
-    <p style="font-size: 24px; color: #ff9e7d;">Welcome to my Digital World! 🔥</p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF9E7D&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Digital+World!+%F0%9F%94%A5" alt="Welcome Text" />
+    </a>
   </div>
   
   <!-- 彩色分隔线 -->
