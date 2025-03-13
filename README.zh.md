@@ -1,11 +1,11 @@
-# 👨‍💻 欢迎访问我的GitHub个人主页
+# 你好 👋, 我是 BEstaff.
 
-<div align="right">
-  <a href="README.md">返回主页</a> | <a href="README.en.md">English</a>
-</div>
+我喜欢讨论最新的 ⚡ 技术 ⚡, 保持饥饿，保持愚蠢。在这里与我联系 -
 
-## 👋 嗨，大家好
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-邮箱-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/BEstaff"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+## 🚀 关于我
 - 🔭 我正在努力成为一名牛逼的程序员，希望能写出优雅的代码，就像艺术品一样令人陶醉。  
 - 🌱 我正在学习如何在深夜调试时不吃泡面，以及如何让代码自带浪漫属性。  
 - 👯 我希望能合作开发一个用代码构建的零重力理想宇宙。  
@@ -14,27 +14,88 @@
 - 📫 联系我：发邮件或者微信。  
 - 😄 whoami：haha 跨时空的Bug猎手。  
 - ⚡ 趣闻：我曾试图写个程序生成表白文字，但发现爱情的编译器并不支持所有语言。
-- 🌟 来谈谈我的心愿把！🌟
-  - 我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。
+- 🌟 我的愿望：我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。
 
-## 🛠️ 技术栈
-
-<div align="center">
-  <span>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  </span>
+## 🛠️ 我的日常工具:
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
-## 📊 GitHub统计
+## 💼 工作时使用:
+<div>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</div>
+
+## 🌱 正在学习:
+<div>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</div>
+
+你是第 <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> 位访问者，谢谢你! 👋
 
 <div align="center">
-  <!-- GitHub统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub统计" />
-  <br><br>
+  <h2>BEstaff 的 GitHub 统计</h2>
+  <table>
+    <tr>
+      <td>
+        <h3>最常用的语言</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEstaff&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="常用语言" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub统计" />
+        <br>
+        <img src="https://github-profile-trophy.vercel.app/?username=BEstaff&theme=radical&row=1&column=6" alt="trophy" />
+      </td>
+    </tr>
+  </table>
   
-  <!-- GitHub活动统计图 - 黑色背景紫色线条 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&bg_color=000000&color=9e4c98&line=9e4c98&point=DA61D5&area=true&hide_border=true" alt="GitHub活动图" />
-  <br><br>
-  
+</div>
+
+## 我的技能集
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>前端</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>后端</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,redis" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>DevOps</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/bestaff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="买杯咖啡" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+---
+
+<div align="right">
+  <a href="README.md">返回主页</a> | <a href="README.en.md">English</a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BEstaff&color=blueviolet&style=flat-square" alt="访问量统计" />
+</div>
