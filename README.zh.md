@@ -37,7 +37,7 @@
     </td>
     <td width="40%" style="vertical-align: top;">
       <div style="text-align: center;">
-        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+        <pre style="font-size: 5px; line-height: 6px; color: #cccccc;">
  _    _    ___   _     ____          ___   _   _ 
 | |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
 | |__| | | | | || |   | | | |      | | | ||  \| |
@@ -46,7 +46,7 @@
 |_|  |_|  \___/ |_____|____/        \___/ |_| \_|
         </pre>
         <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
-        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+        <pre style="font-size: 5px; line-height: 6px; color: #cccccc;">
  _    _    ___   _     ____          ___   _   _ 
 | |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
 | |__| | | | | || |   | | | |      | | | ||  \| |
