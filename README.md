@@ -22,7 +22,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       </ul>
     </td>
     <td width="40%">
-      <img src="./profile-image.jpg" alt="BEstaff Profile Image" width="100%" />
+      <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
     </td>
   </tr>
 </table>

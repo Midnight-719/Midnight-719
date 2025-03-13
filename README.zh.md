@@ -22,8 +22,8 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="./profile-image.jpg" alt="BEstaff Profile Image" width="100%" />
-      <!-- 请将 "profile-image.jpg" 替换为您实际的图片文件名 -->
+      <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
+      <!-- 请将 "profile-image.JPG" 替换为您实际的图片文件名 -->
     </td>
   </tr>
 </table>
