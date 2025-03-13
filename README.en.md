@@ -35,9 +35,26 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
         <li>🌟 My wish: I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever ❤️.</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
-      <!-- 请将 "profile-image.JPG" 替换为您实际的图片文件名 -->
+    <td width="40%" style="vertical-align: top;">
+      <div style="text-align: center;">
+        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+ _    _    ___   _     ____          ___   _   _ 
+| |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
+| |__| | | | | || |   | | | |      | | | ||  \| |
+|  __  | | | | || |   | | | |      | | | || . ` |
+| |  | | | |_| || |___| |_| |      | |_| || |\  |
+|_|  |_|  \___/ |_____|____/        \___/ |_| \_|
+        </pre>
+        <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
+        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+ _    _    ___   _     ____          ___   _   _ 
+| |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
+| |__| | | | | || |   | | | |      | | | ||  \| |
+|  __  | | | | || |   | | | |      | | | || . ` |
+| |  | | | |_| || |___| |_| |      | |_| || |\  |
+|_|  |_|  \___/ |_____|____/        \___/ |_| \_|
+        </pre>
+      </div>
     </td>
   </tr>
 </table>
@@ -95,7 +112,7 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
+      <h3 align="center">前端</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter" />
         <br>
@@ -108,7 +125,7 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
+      <h3 align="center">后端</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,redis" />
         <br>
@@ -116,7 +133,7 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
         <br>
         <br>
         <a href="https://github.com/BEstaff">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BEstaff&theme=radical" alt="Productive Time">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BEstaff&theme=radical" alt="编码时间">
         </a>
         <br>
       </div>
@@ -130,7 +147,7 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
         <br>
         <br>
         <a href="https://github.com/BEstaff">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEstaff&theme=radical" alt="GitHub Stats">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEstaff&theme=radical" alt="GitHub统计">
         </a>
       </div>
     </td>

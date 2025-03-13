@@ -35,9 +35,26 @@
         <li>🌟 我的愿望：我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。</li>
       </ul>
     </td>
-    <td width="40%">
-      <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
-      <!-- 请将 "profile-image.JPG" 替换为您实际的图片文件名 -->
+    <td width="40%" style="vertical-align: top;">
+      <div style="text-align: center;">
+        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+ _    _    ___   _     ____          ___   _   _ 
+| |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
+| |__| | | | | || |   | | | |      | | | ||  \| |
+|  __  | | | | || |   | | | |      | | | || . ` |
+| |  | | | |_| || |___| |_| |      | |_| || |\  |
+|_|  |_|  \___/ |_____|____/        \___/ |_| \_|
+        </pre>
+        <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
+        <pre style="font-size: 6px; line-height: 6px; color: #cccccc;">
+ _    _    ___   _     ____          ___   _   _ 
+| |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
+| |__| | | | | || |   | | | |      | | | ||  \| |
+|  __  | | | | || |   | | | |      | | | || . ` |
+| |  | | | |_| || |___| |_| |      | |_| || |\  |
+|_|  |_|  \___/ |_____|____/        \___/ |_| \_|
+        </pre>
+      </div>
     </td>
   </tr>
 </table>
