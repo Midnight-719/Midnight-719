@@ -17,7 +17,7 @@
 - 🌟 来谈谈我的心愿把！🌟
   - 我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。
 
-## 🛠️ 技术栈
+<!-- ## 🛠️ 技术栈
 
 <div align="center">
   <span>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   </span>
-</div>
+</div> -->
 
 ## 📊 GitHub统计
 
