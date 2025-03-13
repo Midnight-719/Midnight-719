@@ -1,19 +1,10 @@
 <div align="center">
   
-  <!-- 动态火焰效果标题 -->
-  <div style="background-color: #2d333b; padding: 20px; border-radius: 10px;">
-    <h1 style="font-size: 60px; margin-bottom: 10px;">
-      <span style="background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #ff0000); background-size: 400% 400%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; animation: fireAnimation 3s ease infinite;">Code</span>
-      <span style="color: #ff9e7d; margin: 0 10px;">and</span>
-      <span style="background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #ff0000); background-size: 400% 400%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; animation: fireAnimation 3s ease infinite;">Life</span>
-    </h1>
-    <style>
-      @keyframes fireAnimation {
-        0% { background-position: 0% 50%; }
-        50% { background-position: 100% 50%; }
-        100% { background-position: 0% 50%; }
-      }
-    </style>
+  <!-- 火焰效果标题 -->
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF3D00&center=true&vCenter=true&random=false&width=435&lines=Code+and+Life" alt="Typing SVG" />
+    </a>
     <p style="font-size: 24px; color: #ff9e7d;">欢迎来到我的数字世界! 🔥</p>
   </div>
   
