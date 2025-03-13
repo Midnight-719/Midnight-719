@@ -2,8 +2,8 @@
 
 我喜欢讨论最新的 ⚡ 技术 ⚡, 保持饥饿，保持愚蠢。在这里与我联系 -
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-邮箱-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/BEstaff"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:1912975308@qq.com"><img src="https://img.shields.io/badge/-邮箱-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Midnight-719"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <table>
   <tr>
@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="profile-image.jpg" alt="BEstaff个人形象" width="100%" />
+      <img src="./profile-image.jpg" alt="BEstaff Profile Image" width="100%" />
       <!-- 请将 "profile-image.jpg" 替换为您实际的图片文件名 -->
     </td>
   </tr>
