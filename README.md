@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile / 欢迎访问我的GitHub个人主页
+# Welcome to My GitHub Profile
 
 <div align="right">
   <a href="README.zh.md">中文</a> | <a href="README.en.md">English</a>
