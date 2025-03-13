@@ -5,16 +5,28 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BEstaff"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 🚀 About Me
-- 🔭 I'm currently working on becoming an awesome programmer who can write code so elegant it feels like art.  
-- 🌱 I'm currently learning how to debug late at night without instant noodles and how to make code inherently romantic.  
-- 👯 I'm looking to collaborate on building a zero-gravity universe powered by lines of code.  
-- 🤔 I'm looking for help with figuring out how to make writing code look irresistibly attractive to girls.  
-- 💬 Ask me about the bittersweet moments of coding—when a bug crushes you but fixing it makes you feel invincible.  
-- 📫 How to reach me: Shoot me an email
-- 😄 whoami: haha. A time-traveling Bug Hunter.  
-- ⚡ Fun fact: I once tried to write a program to generate a love confession but realized love's compiler doesn't support every language.
-- 🌟 My wish: I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever ❤️.
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🔭 I'm currently working on becoming an awesome programmer who can write code so elegant it feels like art.</li>
+        <li>🌱 I'm currently learning how to debug late at night without instant noodles and how to make code inherently romantic.</li>
+        <li>👯 I'm looking to collaborate on building a zero-gravity universe powered by lines of code.</li>
+        <li>🤔 I'm looking for help with figuring out how to make writing code look irresistibly attractive to girls.</li>
+        <li>💬 Ask me about the bittersweet moments of coding—when a bug crushes you but fixing it makes you feel invincible.</li>
+        <li>📫 How to reach me: Shoot me an email</li>
+        <li>😄 whoami: haha. A time-traveling Bug Hunter.</li>
+        <li>⚡ Fun fact: I once tried to write a program to generate a love confession but realized love's compiler doesn't support every language.</li>
+        <li>🌟 My wish: I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever ❤️.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="profile-image.jpg" alt="BEstaff Profile Image" width="100%" />
+      <!-- 请将 "profile-image.jpg" 替换为您实际的图片文件名 -->
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ I use daily:
 <div>

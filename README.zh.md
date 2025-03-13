@@ -5,16 +5,28 @@
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-邮箱-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BEstaff"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 🚀 关于我
-- 🔭 我正在努力成为一名牛逼的程序员，希望能写出优雅的代码，就像艺术品一样令人陶醉。  
-- 🌱 我正在学习如何在深夜调试时不吃泡面，以及如何让代码自带浪漫属性。  
-- 👯 我希望能合作开发一个用代码构建的零重力理想宇宙。  
-- 🤔 我想知道写代码有没有办法让女孩子觉得特别迷人。  
-- 💬 问我关于写代码时那些令人纠结又让人着迷的瞬间吧。  
-- 📫 联系我：发邮件或者微信。  
-- 😄 whoami：haha 跨时空的Bug猎手。  
-- ⚡ 趣闻：我曾试图写个程序生成表白文字，但发现爱情的编译器并不支持所有语言。
-- 🌟 我的愿望：我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🚀 关于我</h2>
+      <ul>
+        <li>🔭 我正在努力成为一名牛逼的程序员，希望能写出优雅的代码，就像艺术品一样令人陶醉。</li>
+        <li>🌱 我正在学习如何在深夜调试时不吃泡面，以及如何让代码自带浪漫属性。</li>
+        <li>👯 我希望能合作开发一个用代码构建的零重力理想宇宙。</li>
+        <li>🤔 我想知道写代码有没有办法让女孩子觉得特别迷人。</li>
+        <li>💬 问我关于写代码时那些令人纠结又让人着迷的瞬间吧。</li>
+        <li>📫 联系我：发邮件或者微信。</li>
+        <li>😄 whoami：haha 跨时空的Bug猎手。</li>
+        <li>⚡ 趣闻：我曾试图写个程序生成表白文字，但发现爱情的编译器并不支持所有语言。</li>
+        <li>🌟 我的愿望：我希望世界上最有才华的女人 Taylor Swift 和另一个全世界最有才华的女人能在一起，然后用她们的爱情写出全世界最完美的爱情专辑❤️。</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="profile-image.jpg" alt="BEstaff个人形象" width="100%" />
+      <!-- 请将 "profile-image.jpg" 替换为您实际的图片文件名 -->
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ 我的日常工具:
 <div>
