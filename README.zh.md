@@ -7,6 +7,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub统计" />
+  
+  <!-- GitHub活动统计图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&theme=radical" alt="GitHub活动图" />
 </div>
 
 ## 嗨，大家好 👋  

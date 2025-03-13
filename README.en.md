@@ -7,6 +7,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 ## Hi there 👋
