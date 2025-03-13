@@ -1,7 +1,6 @@
-# Hi there 👋 | 嗨，大家好 👋
+# Hi there 👋 
 
 <!-- English version -->
-## Hi there 👋  
 - 🔭 I’m currently working on becoming an awesome programmer who can write code so elegant it feels like art.  
 - 🌱 I’m currently learning how to debug late at night without instant noodles and how to make code inherently romantic.  
 - 👯 I’m looking to collaborate on building a zero-gravity universe powered by lines of code.  
