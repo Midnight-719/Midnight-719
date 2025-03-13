@@ -1,9 +1,20 @@
+<div align="center">
+  
+  <!-- 标题动画 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=CA24F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+BEstaff+%F0%9F%91%8B;Welcome+to+my+Digital+World!;Code+%E2%9D%A4%EF%B8%8F+Art+%E2%9D%A4%EF%B8%8F+Life" alt="Typing SVG" />
+  
+  <!-- 彩色分隔线 -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 # Hi there 👋, I'm BEstaff.
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
-<a href="mailto:1912975308@qq.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Midnight-719"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:1912975308@qq.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Midnight-719"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <table>
   <tr>
@@ -54,6 +65,9 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> visitor, Thank You! 👋
 
+<!-- 添加分隔线 -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <h2>BEstaff's GitHub Stats</h2>
   <table>
@@ -77,29 +91,51 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Frontend</h3>
+      <h3 align="center">Frontend</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=figma,tailwind,sass,materialui" />
+        <br>
+        <br>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+        <br>
+        <br>
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>Backend</h3>
+      <h3 align="center">Backend</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,redis" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=django,fastapi,graphql,prisma" />
+        <br>
+        <br>
+        <a href="https://github.com/BEstaff">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BEstaff&theme=radical" alt="Productive Time">
+        </a>
+        <br>
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>DevOps</h3>
+      <h3 align="center">DevOps</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=azure,gcp,jenkins,nginx,prometheus" />
+        <br>
+        <br>
+        <a href="https://github.com/BEstaff">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEstaff&theme=radical" alt="GitHub Stats">
+        </a>
       </div>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.buymeacoffee.com/bestaff" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
+</div> -->
 
 ---
 
@@ -110,3 +146,4 @@ You are my <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> vis
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BEstaff&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
+
