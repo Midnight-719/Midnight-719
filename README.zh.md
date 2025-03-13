@@ -8,8 +8,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub统计" />
   
-  <!-- GitHub活动统计图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&theme=radical" alt="GitHub活动图" />
+  <!-- GitHub活动统计图 - 黑色背景紫色线条 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&bg_color=000000&color=9e4c98&line=9e4c98&point=DA61D5&area=true&hide_border=true" alt="GitHub活动图" />
 </div>
 
 ## 嗨，大家好 👋  
