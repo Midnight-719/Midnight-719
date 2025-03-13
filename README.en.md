@@ -1,14 +1,14 @@
-# Welcome to My GitHub Profile / 欢迎访问我的GitHub个人主页
+<!-- English version -->
+# Welcome to My GitHub Profile
 
 <div align="right">
-  <a href="README.zh.md">中文</a> | <a href="README.en.md">English</a>
+  <a href="README.md">Back to Home</a> | <a href="README.zh.md">中文</a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<!-- English version by default -->
 ## Hi there 👋
 
 - 🔭 I'm currently working on becoming an awesome programmer who can write code so elegant it feels like art.  
@@ -20,7 +20,4 @@
 - 😄 whoami: haha. A time-traveling Bug Hunter.  
 - ⚡ Fun fact: I once tried to write a program to generate a love confession but realized love's compiler doesn't support every language.
 - 🌟 Let's talk about my wishes! 🌟
-  - I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever—a masterpiece full of timeless songs that touch hearts and heal souls ❤️.
-
-
-
+  - I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever—a masterpiece full of timeless songs that touch hearts and heal souls ❤️. 
