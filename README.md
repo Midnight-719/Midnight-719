@@ -1,18 +1,10 @@
-# Welcome to My GitHub Profile
+# 👨‍💻 Welcome to My GitHub Profile 
 
 <div align="right">
   <a href="README.zh.md">中文</a> | <a href="README.en.md">English</a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- GitHub活动统计图 - 黑色背景紫色线条 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&bg_color=000000&color=9e4c98&line=9e4c98&point=DA61D5&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<!-- English version by default -->
-## Hi there 👋
+## 👋 Hi there
 
 - 🔭 I'm currently working on becoming an awesome programmer who can write code so elegant it feels like art.  
 - 🌱 I'm currently learning how to debug late at night without instant noodles and how to make code inherently romantic.  
@@ -25,5 +17,33 @@
 - 🌟 Let's talk about my wishes! 🌟
   - I wish the most talented woman in the world, Taylor Swift, could be with another most talented woman in the world. Together, they would create the most perfect love album ever—a masterpiece full of timeless songs that touch hearts and heal souls ❤️.
 
+## 🛠️ Tech Stack
 
+<div align="center">
+  <span>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  </span>
+</div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- GitHub统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  
+  <!-- GitHub活动统计图 - 黑色背景紫色线条 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BEstaff&bg_color=000000&color=9e4c98&line=9e4c98&point=DA61D5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <br><br>
+  
+  <!-- 年度贡献统计 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BEstaff&theme=monokai" alt="Annual Contributions by Month" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BEstaff&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
