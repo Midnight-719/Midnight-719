@@ -49,8 +49,16 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 | |  | | | |_| || |___| |_| |      | |_| || |\  |
 |_|  |_|  \___/ |_____|____/        \___/ |_| \_|
         </pre>
-        <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" />
+        <!-- <img src="./profile-image.JPG" alt="BEstaff Profile Image" width="100%" /> -->
         <pre style="font-size: 5px; line-height: 6px; color: #cccccc;">
+ _    _    ___   _     ____          ___   _   _ 
+| |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
+| |__| | | | | || |   | | | |      | | | ||  \| |
+|  __  | | | | || |   | | | |      | | | || . ` |
+| |  | | | |_| || |___| |_| |      | |_| || |\  |
+|_|  |_|  \___/ |_____|____/        \___/ |_| \_|
+        </pre>
+                <pre style="font-size: 5px; line-height: 6px; color: #cccccc;">
  _    _    ___   _     ____          ___   _   _ 
 | |  | |  / _ \ | |   |  _ \        / _ \ | \ | |
 | |__| | | | | || |   | | | |      | | | ||  \| |
