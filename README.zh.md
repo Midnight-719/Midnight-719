@@ -39,11 +39,11 @@
 
 ## 📊 GitHub 统计
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEstaff&show_icons=true&theme=radical" alt="GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midnight-719&show_icons=true&theme=radical" alt="GitHub 统计" />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/BEstaff/count.svg" /> 访问者
+  <img src="https://profile-counter.glitch.me/Midnight-719/count.svg" /> 访问者
 </div>
 
 <div align="right">
